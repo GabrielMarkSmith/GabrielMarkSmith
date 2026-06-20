@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-<!--
-**The1-GabrielSmith/The1-GabrielSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+My name is Gabriel Smith.
+My goal is to bring back innovation and beautiful product design (aesthetics and UX) to the technology people use everyday.
+I believe in in letting the result speak for itself.
